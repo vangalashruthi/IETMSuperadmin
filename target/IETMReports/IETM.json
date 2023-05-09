@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="13" time="151.165">
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Contents verification" time="12.218">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Abbreviations content..............................passed
+And user is to click the videos used in this IETM content...................passed
+And user is to click the Terms and Definitions content......................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Add New Page action verification" time="10.537">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Add New Page action................................passed
+And user is to verify the textboxes of Add New Page.........................passed
+And user is to verify the Add New Related content action of Add New Page....passed
+And user is to verify the Access rights checkboxes of Add New Page..........passed
+And user is to verify the Save button of Add New Page.......................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Edit Page action verification" time="10.738">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Edit Page action...................................passed
+And user is to verify the textboxes of Edit Page............................passed
+And user is to verify the Add New Related content action of Edit Page.......passed
+And user is to verify the Access rights checkboxes of Edit Page.............passed
+And user is to verify the Save button of Edit Page..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Add Main Page action verification" time="14.761">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Add Main Page action...............................passed
+And user is to verify the textboxes of Add Main Page........................passed
+And user is to verify the Add New Related content action of Add Main Page...passed
+And user is to verify the Access rights checkboxes of Add Main Page.........passed
+And user is to verify the Save button of Add Main Page......................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Next &amp; Previous and Related content buttons verification" time="10.306">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Next button........................................passed
+And user is to click the Previous button....................................passed
+And user is to click the Related Content button.............................passed
+And user is to click the test3 in Related content dropdown..................passed
+And user is to click the close button of test3 Popup page...................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Zoom dropdown action verification" time="11.092">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Zoom dropdown action...............................passed
+And user is to click the Increase...........................................passed
+And user is to click the Decrease...........................................passed
+And user is to click the Slider.............................................passed
+And user is to click the Reset..............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Manuals,Drawings and Glossary buttons verification" time="11.261">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Manuals button.....................................passed
+And user is to click the Drawings button....................................passed
+And user is to click the Glossary button....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Search TextBox verification" time="9.998">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Search Textbox.....................................passed
+And user is to clear the Search Textbox.....................................passed
+And user is to enter the Search Textbox.....................................passed
+And user is to verify the related text......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="All actions verification" time="12.847">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the FullScreen action..................................passed
+And user is to click the Escape key in keyboard.............................passed
+And user is to click the Bookmark action....................................passed
+And user is to close the Bookmark action....................................passed
+And user is to click the Search action......................................passed
+And user is to click the Back navigation button.............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Home button &amp; Modules button verification" time="11.494">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Home button of the page............................passed
+And user is to click the Edit IETM..........................................passed
+And user is to click the Modules button of the page.........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Forward &amp; Backward navigations verification" time="11.313">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Backward navigation button.........................passed
+And user is to click the General information module.........................passed
+And user is to click the Forward navigation button..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Help dropdown button verification" time="10.401">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Help dropdown button...............................passed
+And user is to verify About IETM in the dropdown............................passed
+And user is to verify How to use IETM? in the dropdown......................passed
+And user is to verify Version & Revision History in the dropdown............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate SuperAdmin - Edit IETM" name="Logout button verification" time="13.374">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "**********"..............................passed
+Then user is to enter password as "***".....................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Edit IETM".......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Logout button......................................passed
+And user is to click the Close button.......................................passed
+And user is to click the No button..........................................passed
+And user is to click the Yes button.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
